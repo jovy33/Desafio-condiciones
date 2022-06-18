@@ -1,0 +1,10 @@
+section {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+}
+
+button {
+    margin-bottom: 3%;
+}

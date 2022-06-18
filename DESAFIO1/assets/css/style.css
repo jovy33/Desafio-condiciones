@@ -1,0 +1,15 @@
+.imagen {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+    margin-top: 10%;
+}
+
+body {
+    background-color: black;
+}
